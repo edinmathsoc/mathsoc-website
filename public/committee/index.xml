@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Committees on Welcome to MathSoc</title>
+    <link>http://localhost:1313/committee/</link>
+    <description>Recent content in Committees on Welcome to MathSoc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Sat, 10 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/committee/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meet the committee 2024/2025</title>
+      <link>http://localhost:1313/committee/1723294863802-meet-the-committee/</link>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/committee/1723294863802-meet-the-committee/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

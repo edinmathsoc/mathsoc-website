@@ -1,0 +1,37 @@
+[[main]]
+name = "Events"
+pre = "location-dot"
+pageRef = "events"
+identifier = "0jPHVknYwR"
+weight = 1
+
+[[main]]
+name = "Socials"
+pre = "heart"
+pageRef = "socials"
+identifier = "HFCeOk4GzU"
+weight = 2
+
+[[main]]
+name = "Academics"
+pre = "graduation-cap"
+pageRef = "academics"
+identifier = "n4yUdYZ7Up"
+weight = 3
+
+[[main]]
+name = "Committee"
+pre = "star"
+pageRef = "committee"
+identifier = "XqJiZj5cbk"
+weight = 4
+
+[[main]]
+name = "Photos"
+pre = "image"
+pageRef = "photos"
+identifier = "Y7KOKlt0ml"
+weight = 9999
+
+[[footer]]
+none = "none"
