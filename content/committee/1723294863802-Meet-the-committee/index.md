@@ -16,15 +16,15 @@ Hey everyone! I’m Akbar a 4th year maths and stats student, and I’m the Math
 
 ## Vice President
 
-### Mick Westerlacken
+### Mick Westerlaken
 
 ![Vice President](committee-photos/micky-mouse.jpeg)
 
-Hi! My name is mick, I’m a 4th year maths and physics student, and I’ll be this year’s Vice President. I really enjoyed my role in MathSoc last year, and I’m very excited to continue being a part of the society this year!
+Hi! My name is Mick, I’m a 4th year maths and physics student, and I’ll be this year’s Vice President. I really enjoyed my role in MathSoc last year, and I’m very excited to continue being a part of the society this year!
 
 ## Secretary
 
-## Maria Sauerhering
+### Maria Sauerhering
 
 ![Secretary](committee-photos/maria-sauerhering.jpeg)
 
@@ -32,7 +32,7 @@ Hi I‘m Maria and I‘m a fourth year Math Student. This is my second year on t
 
 ## Treasurer
 
-## Sammy Webb
+### Sammy Webb
 
 ![Treasurer](committee-photos/sammy-webb.jpeg)
 
@@ -72,11 +72,11 @@ Hey I'm Matthew and I'm a fourth year Econ and Maths student. I like econ and I 
 
 ## Academic Coordinator
 
-### Yoyo (Yuchang) Yeung
+### Yoyo (Yuchang) Yang
 
 ![Academic Coordinator](committee-photos/yoyo-yeung.jpeg)
 
-Hello Radu! Here's my paragraph: Hello! I’m Yoyo (Yuchang) and I’m in my third year of Mathematics and Statistics. Super excited and honoured to be the academic coordinator this year! In this role, I'll be responsible for organising academic-related events, including the Maths Annual Lecture everyone knows and loves. My goal is to help broaden students' knowledge and enthusiasm for mathematics by introducing them to areas beyond their coursework. If you have any suggestions or fun topics in maths that you're interested in, I’d love to hear them!
+Hello! I’m Yoyo (Yuchang) and I’m in my third year of Mathematics and Statistics. Super excited and honoured to be the academic coordinator this year! In this role, I'll be responsible for organising academic-related events, including the Maths Annual Lecture everyone knows and loves. My goal is to help broaden students' knowledge and enthusiasm for mathematics by introducing them to areas beyond their coursework. If you have any suggestions or fun topics in maths that you're interested in, I’d love to hear them!
 
 ## Events Coordinator's
 

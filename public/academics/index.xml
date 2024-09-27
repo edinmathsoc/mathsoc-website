@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academics on Welcome to MathSoc</title>
-    <link>http://localhost:1313/academics/</link>
+    <link>https://mathsoc.tardis.ac/academics/</link>
     <description>Recent content in Academics on Welcome to MathSoc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 </copyright>
-    <lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/academics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mathsoc.tardis.ac/academics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Milena Hering on pick&#39;s theorem and Ehrhart polynomial of polytopes</title>
-      <link>http://localhost:1313/academics/1726481909583-milena-hering-on-picks-theorem-and-ehrhart-polynomial-of-polytopes/</link>
+      <link>https://mathsoc.tardis.ac/academics/1726481909583-milena-hering-on-picks-theorem-and-ehrhart-polynomial-of-polytopes/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/academics/1726481909583-milena-hering-on-picks-theorem-and-ehrhart-polynomial-of-polytopes/</guid>
+      <guid>https://mathsoc.tardis.ac/academics/1726481909583-milena-hering-on-picks-theorem-and-ehrhart-polynomial-of-polytopes/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/academics/1726481909583-milena-hering-on-picks-theorem-and-ehrhart-polynomial-of-polytopes/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mathsoc.tardis.ac/academics/1726481909583-milena-hering-on-picks-theorem-and-ehrhart-polynomial-of-polytopes/featured.png" />
     </item>
     
   </channel>

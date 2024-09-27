@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Socials on Welcome to MathSoc</title>
-    <link>http://localhost:1313/socials/</link>
+    <link>https://mathsoc.tardis.ac/socials/</link>
     <description>Recent content in Socials on Welcome to MathSoc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 </copyright>
-    <lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/socials/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mathsoc.tardis.ac/socials/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Family Feud</title>
-      <link>http://localhost:1313/socials/1726480183820-family-feud/</link>
+      <link>https://mathsoc.tardis.ac/socials/1726480183820-family-feud/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/socials/1726480183820-family-feud/</guid>
+      <guid>https://mathsoc.tardis.ac/socials/1726480183820-family-feud/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/socials/1726480183820-family-feud/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mathsoc.tardis.ac/socials/1726480183820-family-feud/featured.jpg" />
     </item>
     
     <item>
       <title>Welcome Party!!</title>
-      <link>http://localhost:1313/socials/1726480596947-welcome-party/</link>
+      <link>https://mathsoc.tardis.ac/socials/1726480596947-welcome-party/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/socials/1726480596947-welcome-party/</guid>
+      <guid>https://mathsoc.tardis.ac/socials/1726480596947-welcome-party/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/socials/1726480596947-welcome-party/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mathsoc.tardis.ac/socials/1726480596947-welcome-party/featured.jpeg" />
     </item>
     
   </channel>
