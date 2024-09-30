@@ -24,14 +24,21 @@ name = "Committee"
 pre = "star"
 pageRef = "committee"
 identifier = "XqJiZj5cbk"
-weight = 4
+weight = 6
 
 [[main]]
 name = "Photos"
 pre = "image"
 pageRef = "photos"
 identifier = "Y7KOKlt0ml"
-weight = 9999
+weight = 5
+
+[[main]]
+name = "Sports"
+pre = "dribbble"
+pageRef = "sports"
+identifier = "qsRhQjdLlj"
+weight = 4
 
 [[footer]]
 none = "none"

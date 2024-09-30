@@ -3,6 +3,7 @@ date: 2024-08-10
 draft: false
 description: "a description"
 tags: ["example", "tag"]
+showDate: false
 ---
 # Upcoming events
 

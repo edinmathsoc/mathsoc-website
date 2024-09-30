@@ -1,0 +1,11 @@
+{{/*  socials academics or sports  */}}
+{{ $events := where .Site.RegularPages "Section" "in" (slice "socials" "academics" "sports") }}
+{{ $yesterday := now.AddDate 0 0 -1 }} 
+{{ $filteredEvents := $events | intersect (where $events "Date" "ge" $yesterday) | first 5 }}
+{{/*  loop through the events  */}}
+{{- range $filteredEvents.Reverse -}}
+    {{ partial "article-link/simple.html" . }}
+    {{/*  add a blank line   */}} 
+    <br>
+{{- end -}}
+

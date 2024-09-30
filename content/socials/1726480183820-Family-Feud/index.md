@@ -1,12 +1,12 @@
 ---
 title: "Family Feud"
-date: 2024-09-16
+date: 2024-09-19T20:00:00+01:00
 draft: false
 description: "a description"
 tags: ["example", "tag"]
 ---
 
-![Family Feud](2024/family-feud.jpg)
+![Family Feud](2024/socials/family-feud.jpg)
 
 MathSoc presents Family Feud!
 

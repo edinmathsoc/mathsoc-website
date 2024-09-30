@@ -1,6 +1,6 @@
 ---
 title: "Welcome Party!!"
-date: 2024-09-09
+date: 2024-09-09T20:00:00+01:00
 draft: false
 description: "a description"
 tags: ["example", "tag"]

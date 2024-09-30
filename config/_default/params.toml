@@ -21,7 +21,7 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "profile"
+layout = "page"
 showRecent = false
 showRecentItems = 5
 showMoreLink = ""
@@ -29,15 +29,15 @@ showMoreLinkDest = "/posts"
 cardView = false
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
-homepageImage = "mathsoc-banner.PNG"
+homepageImage = "mathsoc-banner.png"
 
 [article]
-showDate = false
+showDate = true
 showViews = false
 showLikes = false
 showDateOnlyInArticle = false
 showDateUpdated = false
-showAuthor = true
+showAuthor = false
 showHero = false
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true

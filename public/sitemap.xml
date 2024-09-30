@@ -3,55 +3,79 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://mathsoc.tardis.ac/academics/</loc>
-    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/committee/</loc>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://mathsoc.tardis.ac/socials/1726480183820-family-feud/</loc>
-    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/socials/1727621097889-bowling/</loc>
+    <lastmod>2024-10-08T20:00:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://mathsoc.tardis.ac/academics/1726481909583-milena-hering-on-picks-theorem-and-ehrhart-polynomial-of-polytopes/</loc>
-    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/socials/</loc>
+    <lastmod>2024-10-08T20:00:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://mathsoc.tardis.ac/socials/</loc>
-    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/sports/1727614653395-first-match-of-the-season/</loc>
+    <lastmod>2024-10-06T13:40:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://mathsoc.tardis.ac/</loc>
-    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/sports/</loc>
+    <lastmod>2024-10-06T13:40:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://mathsoc.tardis.ac/socials/1726480596947-welcome-party/</loc>
-    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/academics/</loc>
+    <lastmod>2024-09-30T17:00:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://mathsoc.tardis.ac/events/</loc>
+    <loc>http://localhost:1313/academics/1727612708287-lean-workshop/</loc>
+    <lastmod>2024-09-30T17:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/sports/1727610934929-netball-training/</loc>
+    <lastmod>2024-09-30T17:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/socials/1726480183820-family-feud/</loc>
+    <lastmod>2024-09-19T20:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/academics/1726481909583-milena-hering-on-picks-theorem-and-ehrhart-polynomial-of-polytopes/</loc>
+    <lastmod>2024-09-16T18:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/socials/1726480596947-welcome-party/</loc>
+    <lastmod>2024-09-09T20:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/events/</loc>
     <lastmod>2024-08-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://mathsoc.tardis.ac/committee/</loc>
-    <lastmod>2024-08-10T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://mathsoc.tardis.ac/committee/1723294863802-meet-the-committee/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-08-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

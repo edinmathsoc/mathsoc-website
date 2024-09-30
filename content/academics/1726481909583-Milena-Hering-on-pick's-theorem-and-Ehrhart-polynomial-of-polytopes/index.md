@@ -1,6 +1,6 @@
 ---
 title: "Milena Hering on pick's theorem and Ehrhart polynomial of polytopes"
-date: 2024-09-16
+date: 2024-09-16T18:00:00+01:00
 draft: false
 description: "a description"
 tags: ["example", "tag"]
