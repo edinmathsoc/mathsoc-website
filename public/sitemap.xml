@@ -9,6 +9,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/academics/</loc>
+    <lastmod>2024-10-10T17:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/academics/1727689773326-homotopy-is-not-concrete/</loc>
+    <lastmod>2024-10-10T17:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/socials/1727621097889-bowling/</loc>
     <lastmod>2024-10-08T20:00:00+01:00</lastmod>
     <changefreq>daily</changefreq>
@@ -17,12 +29,6 @@
   <url>
     <loc>http://localhost:1313/socials/</loc>
     <lastmod>2024-10-08T20:00:00+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/academics/</loc>
-    <lastmod>2024-10-08T17:00:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -41,12 +47,6 @@
   <url>
     <loc>http://localhost:1313/sports/</loc>
     <lastmod>2024-10-06T13:40:00+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/academics/1727689773326-homotopy-is-not-concrete/</loc>
-    <lastmod>2024-09-30T17:00:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

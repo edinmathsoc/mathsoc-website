@@ -1,11 +1,4 @@
 [[main]]
-name = "Events"
-pre = "location-dot"
-pageRef = "events"
-identifier = "0jPHVknYwR"
-weight = 1
-
-[[main]]
 name = "Socials"
 pre = "heart"
 pageRef = "socials"
@@ -25,13 +18,6 @@ pre = "star"
 pageRef = "committee"
 identifier = "XqJiZj5cbk"
 weight = 6
-
-[[main]]
-name = "Photos"
-pre = "image"
-pageRef = "photos"
-identifier = "Y7KOKlt0ml"
-weight = 5
 
 [[main]]
 name = "Sports"
