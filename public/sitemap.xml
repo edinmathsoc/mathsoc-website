@@ -21,6 +21,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/academics/</loc>
+    <lastmod>2024-10-08T17:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/academics/1727689746532-intro-to-topology/</loc>
+    <lastmod>2024-10-08T17:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/sports/1727614653395-first-match-of-the-season/</loc>
     <lastmod>2024-10-06T13:40:00+01:00</lastmod>
     <changefreq>daily</changefreq>
@@ -33,7 +45,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/academics/</loc>
+    <loc>http://localhost:1313/academics/1727689773326-homotopy-is-not-concrete/</loc>
     <lastmod>2024-09-30T17:00:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
