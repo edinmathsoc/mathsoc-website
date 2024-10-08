@@ -1,8 +1,8 @@
 ---
 title: "Netball training"
-date: 2024-09-30T17:00:00+01:00
+date: 2024-10-07T17:00:00+01:00
 draft: false
-description: "a description"
+description: "don't be late!"
 tags: ["example", "tag"]
 ---
 {{< button href="https://chat.whatsapp.com/EedUWWy9hhRKD6JCk91Nrg" target="_self" >}}
@@ -14,3 +14,6 @@ We have secured a consistent training time and venue for the rest of the season.
 ![Pitch location](netballpitchlocation.png)
 
 We are always happy for new team members to join us, so if you are interested in playing netball, please come along to training or join our WhatsApp group for more information.
+
+Training will cost £2 per session, which will go towards the cost of hiring the pitch. I will collect this at the end of the semester.
+

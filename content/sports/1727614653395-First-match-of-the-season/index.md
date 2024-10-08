@@ -2,8 +2,8 @@
 title: "First match of the season vs Medics' Netball"
 date: 2024-10-06T13:40:00+01:00
 draft: false
-description: "a description"
-tags: ["example", "tag"]
+description: "13:40 at Peffermill"
+# tags: ["example", "tag"]
 ---
 {{< button href="https://chat.whatsapp.com/EedUWWy9hhRKD6JCk91Nrg" target="_self" >}}
 Join Netball WhatsApp group

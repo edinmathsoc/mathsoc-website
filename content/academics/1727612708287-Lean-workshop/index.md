@@ -1,6 +1,6 @@
 ---
 title: "Lean workshop"
-date: 2024-09-30T17:00:00+01:00
+date: 2024-10-07T17:00:00+01:00
 time: "17:00"
 draft: false
 description: "a description"
