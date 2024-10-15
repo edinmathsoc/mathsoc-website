@@ -3,109 +3,133 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/committee/</loc>
+    <loc>https://mathsoc.tardis.ac/committee/</loc>
     <lastmod>2025-08-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/academics/</loc>
+    <loc>https://mathsoc.tardis.ac/problems/1728904234147-non-attacking-queens-on-an-infinite-chess-board/</loc>
+    <lastmod>2024-10-21T00:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://mathsoc.tardis.ac/problems/</loc>
+    <lastmod>2024-10-21T00:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://mathsoc.tardis.ac/academics/</loc>
     <lastmod>2024-10-17T19:00:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/academics/1728311055729-jane-street-estimathon/</loc>
+    <loc>https://mathsoc.tardis.ac/academics/1728311055729-jane-street-estimathon/</loc>
     <lastmod>2024-10-17T19:00:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/academics/1728308191004-jane-streets-strategy-and-product-internship-talk/</loc>
+    <loc>https://mathsoc.tardis.ac/academics/1728752822384-internship-info-talk/</loc>
+    <lastmod>2024-10-16T18:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://mathsoc.tardis.ac/academics/1728308191004-jane-streets-strategy-and-product-internship-talk/</loc>
     <lastmod>2024-10-15T18:30:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/academics/1727689773326-homotopy-is-not-concrete/</loc>
+    <loc>https://mathsoc.tardis.ac/socials/1728981896021-postgrad-pub/</loc>
+    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://mathsoc.tardis.ac/socials/</loc>
+    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://mathsoc.tardis.ac/academics/1727612708287-lean-workshop/</loc>
+    <lastmod>2024-10-14T17:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://mathsoc.tardis.ac/sports/1727610934929-netball-training/</loc>
+    <lastmod>2024-10-14T17:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://mathsoc.tardis.ac/sports/</loc>
+    <lastmod>2024-10-14T17:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://mathsoc.tardis.ac/academics/1727689773326-homotopy-is-not-concrete/</loc>
     <lastmod>2024-10-10T17:00:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/socials/1727621097889-bowling/</loc>
+    <loc>https://mathsoc.tardis.ac/socials/1727621097889-bowling/</loc>
     <lastmod>2024-10-08T20:00:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/socials/</loc>
-    <lastmod>2024-10-08T20:00:00+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/academics/1727689746532-intro-to-topology/</loc>
+    <loc>https://mathsoc.tardis.ac/academics/1727689746532-intro-to-topology/</loc>
     <lastmod>2024-10-08T17:00:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/academics/1727612708287-lean-workshop/</loc>
-    <lastmod>2024-10-07T17:00:00+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/sports/1727610934929-netball-training/</loc>
-    <lastmod>2024-10-07T17:00:00+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/sports/</loc>
-    <lastmod>2024-10-07T17:00:00+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/sports/1728312182396-football-whatsapp/</loc>
+    <loc>https://mathsoc.tardis.ac/sports/1728312182396-football-whatsapp/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/sports/1727614653395-first-match-of-the-season/</loc>
+    <loc>https://mathsoc.tardis.ac/sports/1727614653395-first-match-of-the-season/</loc>
     <lastmod>2024-10-06T13:40:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/socials/1726480183820-family-feud/</loc>
+    <loc>https://mathsoc.tardis.ac/socials/1726480183820-family-feud/</loc>
     <lastmod>2024-09-19T20:00:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/academics/1726481909583-milena-hering-on-picks-theorem-and-ehrhart-polynomial-of-polytopes/</loc>
+    <loc>https://mathsoc.tardis.ac/academics/1726481909583-milena-hering-on-picks-theorem-and-ehrhart-polynomial-of-polytopes/</loc>
     <lastmod>2024-09-16T18:00:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/socials/1726480596947-welcome-party/</loc>
+    <loc>https://mathsoc.tardis.ac/socials/1726480596947-welcome-party/</loc>
     <lastmod>2024-09-09T20:00:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/events/</loc>
+    <loc>https://mathsoc.tardis.ac/events/</loc>
     <lastmod>2024-08-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://mathsoc.tardis.ac/</loc>
     <lastmod>2024-08-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

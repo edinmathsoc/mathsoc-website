@@ -6,9 +6,17 @@ draft: false
 We are a student-run society that aims to bring together students from all years and courses who share an interest in mathematics. We organise a variety of events throughout the year, including socials, academic talks, intramural sports, and careers events. We also take care of the Mathshub, a common room for maths students to study, socialise, and relax.
 <!-- Join us for a cup of tea and a free pastry on a Tuesday morning! -->
 
+{{< button href="https://www.eusa.ed.ac.uk/shop?activity_id=233" target="_self" >}}
+Buy a membership
+{{< /button >}}
+
 ## Upcoming events
 
 {{< events >}}
+
+## Check out our latest problem
+
+{{< problems >}}
 
 ## Our sponsors
 

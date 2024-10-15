@@ -26,5 +26,18 @@ pageRef = "sports"
 identifier = "qsRhQjdLlj"
 weight = 4
 
+[[main]]
+name = "Problems"
+pre = "pencil"
+pageRef = "problems"
+identifier = "Z1QeQj4GzU"
+weight = 5
+
+[[main]]
+pre = "instagram"
+url = "https://www.instagram.com/edinmathsoc/"
+identifier = "Y0ec4jFf6f"
+weight = 9999
+
 [[footer]]
 none = "none"

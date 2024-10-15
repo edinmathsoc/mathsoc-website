@@ -1,0 +1,8 @@
+{{/*  socials academics or sports  */}}
+{{ $problems := where .Site.RegularPages "Section" "in" "problems" }}
+{{/*  get the last problem  */}}
+{{ $filteredProblems := $problems | last 2 }} 
+{{/*  I am not sure why last 2 works also if you do more it picks up the commitee page also again not sure why  */}}
+{{- range $filteredProblems.Reverse -}}
+    {{ partial "article-link/simple.html" . }}
+{{- end -}}

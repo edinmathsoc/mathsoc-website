@@ -1,10 +1,8 @@
 ---
-title: "Lean workshop"
-date: 2024-10-07T17:00:00+01:00
+title: "Lean weekly workshop"
+date: 2024-10-14T17:00:00+01:00
 time: "17:00"
 draft: false
-description: "a description"
-tags: ["example", "tag"]
 ---
 Join us for a workshop on Lean, in Appleton tower room **AT.M2** from **17:00** to **19:00** on the **30th of September**.
 
