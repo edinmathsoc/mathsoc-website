@@ -32,12 +32,21 @@ Add your SSH key to the server by running the following command:
 
 You will be prompted for a password. Ask someone who already has access to it to share it with you. When you paste (or type) in the password to the terminal **nothing will show up don't worry it has still been typed in.**
 
+On mac you will [install homebrew](https://brew.sh) 
 
+After the homebrew command has run don't forget to run the commands that it tells you to run in the terminal!
 
-Install hugo (follow the guide for prebuilt-binaries) with this [link](https://gohugo.io/installation/macos/#prebuilt-binaries)
+then install hugo with the command `brew install hugo`
 
+On windows tbc
 
+Now we will install blowfish-tools our theme manager using the following command:
 
+`npx blowfish-tools`
 
+After install use the arrow keys to select Exit and press enter.
 
+now we are going to make some aliases for some long commands you will use often. 
+
+`alias mathsoc-up="hugo && rsync -avz --delete public/ mathsoc@tardisproject.uk:~/www"`
 
