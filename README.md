@@ -1,18 +1,26 @@
 # how to set up mathsoc website
 
-## add ssh key to github
+## Install an editor if you haven't already
+
+Install an editor of your choice, I recommend Visual Studio Code. [link](https://code.visualstudio.com/Download)
+
+Open the editor, click open folder, and navigate to the folder where you will store the mathsoc website files. For example Documents. Open a terminal in VS Code (CMD + J on mac).
+
+## Add ssh key to github
 
 1. If you don't have an ssh key on your local machine, you can generate one by following the instructions on the GitHub website. [link](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent).
    1. You can check by typing the comand `ls -al ~/.ssh` if you get a response saying no known files then you will have to make one with the link above.
 
-3. If you haven't already, you will need to add your SSH key to your GitHub account. You can do this by following the instructions on the GitHub website. 
+2. If you haven't already, you will need to add your SSH key to your GitHub account. You can do this by following the instructions on the GitHub website. 
 [link](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 
 ## add repository to your local machine
 
-Request access to the MathSoc website repository on GitHub. You will need a GitHub account to do this. Once you have access, you can clone the repository to your local machine, use SSH.
+Request access to the MathSoc website repository on GitHub from a member of exec (or old exec). You will need a GitHub account to do this. 
+Once you have access, you can clone the repository to your local machine. Use the command: 
+`git clone git@github.com:samuelwebb2/mathsoc-website.git`
 
-install an editor of your choice, I recommend Visual Studio Code. [link](https://code.visualstudio.com/Download)
+You may have to install git your computer should prompt you if necessary.
 
 ## add ssh key to mathsoc website server (tardis)
 
