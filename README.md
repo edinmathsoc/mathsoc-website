@@ -24,19 +24,18 @@ You may have to install git your computer should prompt you if necessary.
 
 ## add ssh key to mathsoc website server (tardis)
 
-Open a terminal window (You can do this inside Visual Studio Code or your terminal of choice) and ssh into the server using the following command:
-
-```ssh mathsoc@tardisproject.uk```
-
-You will be prompted to add a fingerprint to your known hosts. Type yes and press enter.
-
-You will then be prompted for a password. This is the password for the mathsoc account on the server. If you don't have this, ask someone who does. Note that the password will not show up as you type it as it is hidden for security reasons.
-
-You will now be logged into the tardis server you need to log out type `exit`
+Open a terminal window (You can do this inside Visual Studio Code or your terminal of choice) 
 
 Add your SSH key to the server by running the following command:
 
-```ssh-copy-id mathsoc@tardisproject.uk```
+`ssh-copy-id mathsoc@tardisproject.uk`
+
+You will be prompted for a password. Ask someone who already has access to it to share it with you. When you paste (or type) in the password to the terminal **nothing will show up don't worry it has still been typed in.**
+
+
+Install hugo with this [link](https://gohugo.io/installation/)
+
+
 
 
 
