@@ -34,14 +34,25 @@ You will be prompted for a password. Ask someone who already has access to it to
 
 On mac you will [install homebrew](https://brew.sh) 
 
+This will ask for your computers password
+
 After the homebrew command has run don't forget to run the commands that it tells you to run in the terminal!
 
 then install hugo with the command `brew install hugo`
 
 On windows tbc
 
-Now we will install blowfish-tools our theme manager using the following command:
+[Install npm/node.js](https://nodejs.org/en/download/package-manager)
 
+# download and install Node.js
+`brew install node@20`
+# verifies the right Node.js version is in the environment
+`node -v`
+# verifies the right npm version is in the environment
+`npm -v` 
+# should print `v20.18.0` this might be a higher number by the time you do this 
+
+Now we will install blowfish-tools our theme manager using the following commands:
 `npx blowfish-tools`
 
 After install use the arrow keys to select Exit and press enter.
