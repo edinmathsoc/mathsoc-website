@@ -1,6 +1,6 @@
 ---
 title: "Halloween Party!"
-date: 2024-10-18
+date: 2024-10-18T20:00:00+01:00
 draft: true
 description: "8PM, 28th Oct @ Pilgrim Pub"
 ---
