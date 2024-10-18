@@ -18,7 +18,7 @@ Open the editor, click open folder, and navigate to the folder where you will st
 
 Request access to the MathSoc website repository on GitHub from a member of exec (or old exec). You will need a GitHub account to do this. 
 Once you have access, you can clone the repository to your local machine. Use the command: 
-`git clone git@github.com:samuelwebb2/mathsoc-website.git`
+`git clone --recursive git@github.com:samuelwebb2/mathsoc-website.git`
 
 You may have to install git your computer should prompt you if necessary.
 
