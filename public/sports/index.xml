@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sports on Welcome to MathSoc</title>
-    <link>https://mathsoc.tardis.ac/sports/</link>
+    <link>http://localhost:1313/sports/</link>
     <description>Recent content in Sports on Welcome to MathSoc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 </copyright>
-    <lastBuildDate>Mon, 21 Oct 2024 17:00:00 +0100</lastBuildDate><atom:link href="https://mathsoc.tardis.ac/sports/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Oct 2024 17:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/sports/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netball weekly training</title>
-      <link>https://mathsoc.tardis.ac/sports/1727610934929-netball-training/</link>
+      <link>http://localhost:1313/sports/1727610934929-netball-training/</link>
       <pubDate>Mon, 21 Oct 2024 17:00:00 +0100</pubDate>
       
-      <guid>https://mathsoc.tardis.ac/sports/1727610934929-netball-training/</guid>
+      <guid>http://localhost:1313/sports/1727610934929-netball-training/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mathsoc.tardis.ac/sports/1727610934929-netball-training/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sports/1727610934929-netball-training/featured.jpeg" />
     </item>
     
     <item>
       <title>Football Whatsapp</title>
-      <link>https://mathsoc.tardis.ac/sports/1728312182396-football-whatsapp/</link>
+      <link>http://localhost:1313/sports/1728312182396-football-whatsapp/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mathsoc.tardis.ac/sports/1728312182396-football-whatsapp/</guid>
+      <guid>http://localhost:1313/sports/1728312182396-football-whatsapp/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mathsoc.tardis.ac/sports/1728312182396-football-whatsapp/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sports/1728312182396-football-whatsapp/featured.jpg" />
     </item>
     
     <item>
       <title>First match of the season vs Medics&#39; Netball</title>
-      <link>https://mathsoc.tardis.ac/sports/1727614653395-first-match-of-the-season/</link>
+      <link>http://localhost:1313/sports/1727614653395-first-match-of-the-season/</link>
       <pubDate>Sun, 06 Oct 2024 13:40:00 +0100</pubDate>
       
-      <guid>https://mathsoc.tardis.ac/sports/1727614653395-first-match-of-the-season/</guid>
+      <guid>http://localhost:1313/sports/1727614653395-first-match-of-the-season/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mathsoc.tardis.ac/sports/1727614653395-first-match-of-the-season/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sports/1727614653395-first-match-of-the-season/featured.jpg" />
     </item>
     
   </channel>
