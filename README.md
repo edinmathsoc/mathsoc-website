@@ -33,8 +33,8 @@ Add your SSH key to the server by running the following command:
 You will be prompted for a password. Ask someone who already has access to it to share it with you. When you paste (or type) in the password to the terminal **nothing will show up don't worry it has still been typed in.**
 
 
-Install hugo with this [link](https://gohugo.io/installation/)
 
+Install hugo (follow the guide for prebuilt-binaries) with this [link]([https://gohugo.io/installation/](https://gohugo.io/installation/macos/#prebuilt-binaries)) 
 
 
 
