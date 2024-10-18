@@ -1,17 +1,17 @@
 # how to set up mathsoc website
 
-## add repository to your local machine
-
-Request access to the MathSoc website repository on GitHub. You will need a GitHub account to do this. Once you have access, you can clone the repository to your local machine, use SSH.
-
-install an editor of your choice, I recommend Visual Studio Code. [link](https://code.visualstudio.com/Download)
-
 ## add ssh key to github
 
 If you don't have an ssh key on your local machine, you can generate one by following the instructions on the GitHub website. [link](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
 If you haven't already, you will need to add your SSH key to your GitHub account. You can do this by following the instructions on the GitHub website. 
 [link](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
+
+## add repository to your local machine
+
+Request access to the MathSoc website repository on GitHub. You will need a GitHub account to do this. Once you have access, you can clone the repository to your local machine, use SSH.
+
+install an editor of your choice, I recommend Visual Studio Code. [link](https://code.visualstudio.com/Download)
 
 ## add ssh key to mathsoc website server (tardis)
 
