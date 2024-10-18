@@ -34,7 +34,7 @@ You will be prompted for a password. Ask someone who already has access to it to
 
 
 
-Install hugo (follow the guide for prebuilt-binaries) with this [link]([https://gohugo.io/installation/](https://gohugo.io/installation/macos/#prebuilt-binaries)) 
+Install hugo (follow the guide for prebuilt-binaries) with this [link](https://gohugo.io/installation/](https://gohugo.io/installation/macos/#prebuilt-binaries)
 
 
 
