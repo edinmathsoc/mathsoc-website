@@ -32,9 +32,13 @@ You will be prompted to add a fingerprint to your known hosts. Type yes and pres
 
 You will then be prompted for a password. This is the password for the mathsoc account on the server. If you don't have this, ask someone who does. Note that the password will not show up as you type it as it is hidden for security reasons.
 
-Once you have successfully logged in, you can add your SSH key to the server by running the following command:
+You will now be logged into the tardis server you need to log out type `exit`
+
+Add your SSH key to the server by running the following command:
 
 ```ssh-copy-id mathsoc@tardisproject.uk```
+
+
 
 
 
