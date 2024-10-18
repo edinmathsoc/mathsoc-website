@@ -9,6 +9,42 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://mathsoc.tardis.ac/socials/1729077991540-pub-quiz/</loc>
+    <lastmod>2024-10-22T20:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://mathsoc.tardis.ac/socials/</loc>
+    <lastmod>2024-10-22T20:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://mathsoc.tardis.ac/academics/</loc>
+    <lastmod>2024-10-21T17:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://mathsoc.tardis.ac/academics/1727612708287-lean-workshop/</loc>
+    <lastmod>2024-10-21T17:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://mathsoc.tardis.ac/sports/1727610934929-netball-training/</loc>
+    <lastmod>2024-10-21T17:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://mathsoc.tardis.ac/sports/</loc>
+    <lastmod>2024-10-21T17:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://mathsoc.tardis.ac/problems/1728904234147-non-attacking-queens-on-an-infinite-chess-board/</loc>
     <lastmod>2024-10-21T00:00:00+01:00</lastmod>
     <changefreq>daily</changefreq>
@@ -17,12 +53,6 @@
   <url>
     <loc>https://mathsoc.tardis.ac/problems/</loc>
     <lastmod>2024-10-21T00:00:00+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://mathsoc.tardis.ac/academics/</loc>
-    <lastmod>2024-10-17T19:00:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -47,30 +77,6 @@
   <url>
     <loc>https://mathsoc.tardis.ac/socials/1728981896021-postgrad-pub/</loc>
     <lastmod>2024-10-15T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://mathsoc.tardis.ac/socials/</loc>
-    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://mathsoc.tardis.ac/academics/1727612708287-lean-workshop/</loc>
-    <lastmod>2024-10-14T17:00:00+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://mathsoc.tardis.ac/sports/1727610934929-netball-training/</loc>
-    <lastmod>2024-10-14T17:00:00+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://mathsoc.tardis.ac/sports/</loc>
-    <lastmod>2024-10-14T17:00:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

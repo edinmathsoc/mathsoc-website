@@ -1,6 +1,6 @@
 ---
 title: "Netball weekly training"
-date: 2024-10-14T17:00:00+01:00
+date: 2024-10-21T17:00:00+01:00
 draft: false
 description: "don't be late!"
 ---

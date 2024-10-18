@@ -34,3 +34,5 @@ Solution will be available on 21st October 2024. *Citations will be added with t
     The solution is not unique, but there is a simple way to place the queens. Think small, maybe start with 5 by 5, and work your way up.
   </p>
 </details>
+
+Submitted by Sammy Webb.
