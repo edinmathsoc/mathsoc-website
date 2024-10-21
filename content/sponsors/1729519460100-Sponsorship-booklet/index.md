@@ -1,7 +1,9 @@
 ---
 title: "Sponsorship booklet"
 date: 2024-10-21
+url: sponsorship-booklet
 draft: false
+showDate: false
 description: "University of Edinburgh MathSoc sponsorship packages"
 ---
 
@@ -25,3 +27,5 @@ A Gift Sponsor offers to donate a prize for our various raffles, held twice annu
 ### Venue Sponsor
 
 A Venue Sponsor provides MathSoc with access to their space at a discounted rate, offering us valuable support for a range of events. This partnership can range from small committee gatherings or casual socials such as pub quizzes to larger-scale events such as our annual Maths Ball. By sponsoring our venue, you help us ensure that our events are held in suitable and well-equipped locations, while also receiving prominent recognition and appreciation for your contribution.
+
+If you are interested in sponsoring MathSoc, please contact us at [edinmathsoc@gmail.com](mailto:edinmathsoc@gmail.com?subject=Sponsorship%20Enquiry).
