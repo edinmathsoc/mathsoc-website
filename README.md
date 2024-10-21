@@ -1,62 +1,61 @@
-# how to set up mathsoc website
+# University of Edinburgh MathSoc Website
 
-## Install an editor if you haven't already
+Welcome to the official repository for the University of Edinburgh MathSoc website.
 
-Install an editor of your choice, I recommend Visual Studio Code. [link](https://code.visualstudio.com/Download)
+## Table of Contents
 
-Open the editor, click open folder, and navigate to the folder where you will store the mathsoc website files. For example Documents. Open a terminal in VS Code (CMD + J on mac).
+- [About](#about)
+- [Installation](#installation)
+- [Usage](#usage)
+<!-- - [Contributing](#contributing) -->
+<!-- - [License](#license) -->
 
-## Add ssh key to github
+## About
 
-1. If you don't have an ssh key on your local machine, you can generate one by following the instructions on the GitHub website. [link](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent).
-   1. You can check by typing the comand `ls -al ~/.ssh` if you get a response saying no known files then you will have to make one with the link above.
+This repository contains the source code for the University of Edinburgh MathSoc website. The website provides information about events, membership, and resources for students interested in mathematics.
 
-2. If you haven't already, you will need to add your SSH key to your GitHub account. You can do this by following the instructions on the GitHub website. 
-[link](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
+## Installation
 
-## add repository to your local machine
+To set up the project locally, follow these steps: (Work in progress currently only works on MacOS and Linux)
 
-Request access to the MathSoc website repository on GitHub from a member of exec (or old exec). You will need a GitHub account to do this. 
-Once you have access, you can clone the repository to your local machine. Use the command: 
-`git clone --recursive git@github.com:samuelwebb2/mathsoc-website.git`
+1. Clone the repository:
 
-You may have to install git your computer should prompt you if necessary.
+    ```bash
+    git clone --recursive git@github.com:samuelwebb2/mathsoc-website.git
+    ```
 
-## add ssh key to mathsoc website server (tardis)
+2. Navigate to the project directory:
 
-Open a terminal window (You can do this inside Visual Studio Code or your terminal of choice) 
+    ```bash
+    cd mathsoc-website
+    ```
 
-Add your SSH key to the server by running the following command:
+3. Install the dependencies:
 
-`ssh-copy-id mathsoc@tardisproject.uk`
+    If you don't have homebrew installed follow the instructions [here](https://brew.sh).
 
-You will be prompted for a password. Ask someone who already has access to it to share it with you. When you paste (or type) in the password to the terminal **nothing will show up don't worry it has still been typed in.**
+    ```bash
+    brew install hugo node@20
+    ```
 
-On mac you will [install homebrew](https://brew.sh) 
+    ```bash
+    npm install -g blowfish-tools
+    ```
 
-This will ask for your computers password
+## Usage
 
-After the homebrew command has run don't forget to run the commands that it tells you to run in the terminal!
+To start the development server, run:
 
-then install hugo with the command `brew install hugo`
+```zsh
+blowfish-tools
+```
 
-On windows tbc
+Using your arrow keys sellect the option: 'Run a local server with Blowfish', and press enter.
 
-[Install npm/node.js](https://nodejs.org/en/download/package-manager)
+Open your browser and navigate to `http://localhost:1313` to view the website.
 
-# download and install Node.js
-`brew install node@20`
-# verifies the right Node.js version is in the environment
-`node -v`
-# verifies the right npm version is in the environment
-`npm -v` 
-# should print `v20.18.0` this might be a higher number by the time you do this 
+<!-- ## Contributing
+We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) to get started. -->
 
-Now we will install blowfish-tools our theme manager using the following commands:
-`npx blowfish-tools`
-
-After install use the arrow keys to select Exit and press enter.
-
-now we are going to make some aliases for some long commands you will use often. 
-
-`alias mathsoc-up="hugo && rsync -avz --delete public/ mathsoc@tardisproject.uk:~/www"`
+<!-- ## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. -->
