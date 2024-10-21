@@ -7,6 +7,7 @@ Welcome to the official repository for the University of Edinburgh MathSoc websi
 - [About](#about)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Uploading changes](#uploading-changes)
 <!-- - [Contributing](#contributing) -->
 <!-- - [License](#license) -->
 
@@ -27,8 +28,8 @@ To set up the project locally, follow these steps: (Work in progress currently o
     ```
 
     In order to complete this step you may need to setup the following if you haven't already:
-        1. [Install an editor](https://code.visualstudio.com/Download)
-        2. [Add ssh key to github](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+    1. [Install an editor](https://code.visualstudio.com/Download)
+    2. [Add ssh key to github](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
 2. Navigate to the project directory and open it in your editor:
 
@@ -46,7 +47,7 @@ To set up the project locally, follow these steps: (Work in progress currently o
     ```
 
     ```bash
-    npm install -g blowfish-tools
+    npm i -g blowfish-tools
     ```
 
 ## Usage
@@ -61,7 +62,7 @@ Using your arrow keys sellect the option: 'Run a local server with Blowfish', an
 
 Open your browser and navigate to [http://localhost:1313](http://localhost:1313) to view the website.
 
-## Uploading changes
+## Uploading changes (Members of the MathSoc exec team only)
 
 If you are not a member of the MathSoc exec team, you will need to create a pull request to merge your changes into the main branch.
 
