@@ -1,7 +1,7 @@
 ---
 title: "Annual-lecture"
 date: 2024-10-21
-draft: false
+draft: true
 description: "a description"
 tags: ["example", "tag"]
 ---
