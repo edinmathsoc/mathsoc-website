@@ -1,14 +1,17 @@
 ---
-title: "Netball weekly training"
+title: "Netball weekly training & Match!"
 date: 2024-10-28T17:00:00+01:00
 draft: false
 description: "don't be late!"
 ---
+
+## We have a match today against the Biomed team in our usual training slot. Please come along to play or support the team
+
 {{< button href="https://chat.whatsapp.com/EedUWWy9hhRKD6JCk91Nrg" target="_self" >}}
 Join Netball WhatsApp group
 {{< /button >}}
 
-We have secured a consistent training time and venue for the rest of the season. Training will be held on the new MUGA pitches at Peffermill every Monday from 17:00-18:00. The pitches are right by the car park, just go straight on and wonder round the pitches to the entrance. If you have any friends who are keen to join, please bring them along! 
+We have secured a consistent training time and venue for the rest of the season. Training will be held on the new MUGA pitches at Peffermill every Monday from 17:00-18:00. The pitches are right by the car park, just go straight on and wonder round the pitches to the entrance. If you have any friends who are keen to join, please bring them along!
 
 ![Pitch location](netballpitchlocation.png)
 

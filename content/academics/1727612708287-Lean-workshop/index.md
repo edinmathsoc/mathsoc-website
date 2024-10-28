@@ -1,6 +1,6 @@
 ---
 title: "Lean weekly workshop"
-date: 2024-10-21T17:00:00+01:00
+date: 2024-10-28T17:00:00+01:00
 time: "17:00"
 draft: false
 ---
@@ -11,4 +11,3 @@ Digitizing mathematics is increasingly becoming more popular within the mathemat
 Who knows what the implications are of digitizing mathematics?
 
 I definitely would not be surprised if Interactive Theorem Provers like Lean revolutionized the way mathematics is verified, done, used and taught in the future.
-

@@ -7,7 +7,7 @@ Welcome to the official repository for the University of Edinburgh MathSoc websi
 - [About](#about)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Uploading changes](#uploading-changes)
+- [Uploading changes](#uploading-changes-members-of-the-mathsoc-exec-team-only)
 <!-- - [Contributing](#contributing) -->
 <!-- - [License](#license) -->
 
