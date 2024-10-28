@@ -1,5 +1,5 @@
 ---
-title: "Annual-lecture"
+title: "X-ray Tomography, 2024 Annual lecture"
 date: 2024-11-07T17:15:00+01:00
 draft: false
 description: "Our Annual Lecture by Samuli Siltanen @5:15pm in the Larch lecture Theatre"
