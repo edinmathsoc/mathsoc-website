@@ -1,6 +1,6 @@
 ---
 title: "Netball weekly training & Match!"
-date: 2024-10-28T17:00:00+01:00
+date: 2024-11-04T17:00:00+01:00
 draft: false
 description: "don't be late!"
 ---
