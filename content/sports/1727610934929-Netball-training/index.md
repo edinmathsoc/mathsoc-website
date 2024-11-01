@@ -1,5 +1,5 @@
 ---
-title: "Netball weekly training & Match!"
+title: "Netball weekly training"
 date: 2024-11-04T17:00:00+01:00
 draft: false
 description: "don't be late!"
