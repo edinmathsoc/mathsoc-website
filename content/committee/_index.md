@@ -29,4 +29,4 @@ team:
     <img src="committee-photos/naseem-veevers.jpeg" alt="Naseem Veevers" class="grid-w50 md:grid-w33 xl:grid-w25">
 {{< /gallery >}} -->
 
-{{< profileCard src="profile-photos/sammy-webb.png" name="Sammy" surname="Webb" role="Treasurer" >}}
+{{< profileCard src="committee-photos/akbar-latif.jpeg" name="Sammy" surname="Webb" role="Treasurer" >}}
