@@ -29,7 +29,7 @@ team:
     <img src="img/committeephotos/naseemveevers.jpeg" alt="Naseem Veevers" class="grid-w50 md:grid-w33 xl:grid-w25"/>
 {{< /gallery >}} -->
 
-The quick brown fox jumps over the lazy dog.
+<!-- The quick brown fox jumps over the lazy dog. -->
 
 <!-- {{< figure src="img/committeephotos/akbarlatif.jpeg" >}}
 {{< figure src="img/committeephotos/mickymouse.jpeg" >}}
