@@ -1,0 +1,95 @@
+[[profiles]]
+name = "Akbar"
+surname = "Latif"
+role = "President"
+src = "/img/committeephotos/akbarlatif.jpeg"
+year = 2024
+page = "1730562939797-Akbar-Latif---President"
+
+[[profiles]]
+name = "Mick"
+surname = "Westerlaken"
+role = "Vice President"
+src = "/img/committeephotos/mickymouse.jpeg"
+year = 2024
+page = "1730563467811-Mick-Westerlaken---Vice-President"
+
+[[profiles]]
+name = "Maria"
+surname = "Sauerhering"
+role = "Secretary"
+src = "/img/committeephotos/mariasauerhering.jpeg"
+year = 2024
+page = "1730563489761-Maria-Sauerhering---Secretary"
+
+[[profiles]]
+name = "Sammy"
+surname = "Webb"
+role = "Treasurer"
+src = "/img/committeephotos/sammywebb.png"
+year = 2024
+page = "1730563509467-Sammy-Webb---Treasurer"
+
+[[profiles]]
+name = "Paris"
+surname = "Nobel"
+role = "Social Secretary"
+src = "/img/committeephotos/parisnobel.jpeg"
+year = 2024
+page = "1730563526542-Paris-Nobel---Social-Secretary"
+
+[[profiles]]
+name = "Pablo"
+surname = "Ortuño"
+role = "MathsHub Coordinator"
+src = "/img/committeephotos/pabloortuno.jpeg"
+year = 2024
+page = "1730563546778-Pablo-Ortuño---MathsHub-Coordinator"
+
+[[profiles]]
+name = "Radu"
+surname = "Georgescu"
+role = "Publicity Officer"
+src = "/img/committeephotos/radugeorgescu.jpeg"
+year = 2024
+page = "1730563565045-Radu-Georgescu"
+
+[[profiles]]
+name = "Matthew"
+surname = "McCrea"
+role = "Wellbeing Coordinator"
+src = "/img/committeephotos/matthewmccrea.jpeg"
+year = 2024
+page = "1730563623007-Matthew-McCrea"
+
+[[profiles]]
+name = "Yoyo (Yuchang)"
+surname = "Yang"
+role = "Academic Coordinator"
+src = "/img/committeephotos/yoyoyeung.jpeg"
+year = 2024
+page = "1730563724257-Yoyo-(Yuchang)-Yang---Academic-Coordinator"
+
+[[profiles]]
+name = "Lucy"
+surname = "Walsh"
+role = "Events Coordinator"
+src = "/img/committeephotos/lucywalsh.jpeg"
+year = 2024
+page = "1730563737557-Lucy-Walsh---Events-Coordinator"
+
+[[profiles]]
+name = "Joanna"
+surname = "Tulloch"
+role = "Events Coordinator"
+src = "/img/committeephotos/joannatulloch.jpeg"
+year = 2024
+page = "1730563752559-Joanna-Tulloch---Events-Coordinator"
+
+[[profiles]]
+name = "Naseem"
+surname = "Veevers"
+role = "Sports Secretary"
+src = "/img/committeephotos/naseemveevers.jpeg"
+year = 2024
+page = "1730564183138-Naseem-Veevers---Sports-Secretary"
