@@ -14,7 +14,7 @@ team:
       role: "Social Secretary"
       src: "committeephotos/parisnobel.jpeg"
 ---
-{{< gallery >}}
+<!-- {{< gallery >}}
     <img src="img/committeephotos/akbarlatif.jpeg" alt="Akbar Latif" class="grid-w50 md:grid-w33 xl:grid-w25" />
     <img src="img/committeephotos/mickymouse.jpeg" alt="Mick Westerlaken" class="grid-w50 md:grid-w33 xl:grid-w25"/>
     <img src="img/committeephotos/mariasauerhering.jpeg" alt="Maria Sauerhering" class="grid-w50 md:grid-w33 xl:grid-w25"/>
@@ -27,7 +27,7 @@ team:
     <img src="img/committeephotos/lucywalsh.jpeg" alt="Lucy Walsh" class="grid-w50 md:grid-w33 xl:grid-w25"/>
     <img src="img/committeephotos/joannatulloch.jpeg" alt="Joanna Tulloch" class="grid-w50 md:grid-w33 xl:grid-w25"/>
     <img src="img/committeephotos/naseemveevers.jpeg" alt="Naseem Veevers" class="grid-w50 md:grid-w33 xl:grid-w25"/>
-{{< /gallery >}}
+{{< /gallery >}} -->
 
 The quick brown fox jumps over the lazy dog.
 
