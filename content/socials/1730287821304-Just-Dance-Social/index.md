@@ -1,7 +1,7 @@
 ---
 title: "Just Dance Social"
 date: 2024-11-05T20:00:00+00:00
-draft: false
+draft: true
 description: "Just Dance @8PM Golf Tavern"
  
 ---

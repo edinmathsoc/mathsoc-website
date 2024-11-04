@@ -1,6 +1,6 @@
 ---
 title: "Paris Nobel - Social Secretary"
-date: 2024-08-01
+date: 2024-05-01
 draft: false
 showDate: false
 # description: "a description"

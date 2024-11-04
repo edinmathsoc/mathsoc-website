@@ -1,6 +1,6 @@
 ---
 title: "Lucy Walsh - Events Coordinator"
-date: 2024-03-01
+date: 2024-10-01
 draft: false
 showDate: false
 # description: "a description"

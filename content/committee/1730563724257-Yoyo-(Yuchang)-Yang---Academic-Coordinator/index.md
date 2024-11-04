@@ -1,6 +1,6 @@
 ---
 title: "Yoyo (Yuchang) Yang - Academic Coordinator"
-date: 2024-04-01
+date: 2024-09-01
 draft: false
 showDate: false
 # description: "a description"

@@ -1,6 +1,6 @@
 ---
 title: "Radu Georgescu - Publicity Officer"
-date: 2024-06-01
+date: 2024-07-01
 draft: false
 showDate: false
 # description: "a description"

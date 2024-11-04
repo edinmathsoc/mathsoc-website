@@ -1,6 +1,6 @@
 ---
 title: "Maria Sauerhering - Secretary"
-date: 2024-10-01
+date: 2024-03-01
 draft: false
 showDate: false
 # description: "a description"
