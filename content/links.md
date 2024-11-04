@@ -16,3 +16,4 @@ This page will be regularly updated with links to all things MathSoc related.
 
 [{{< icon "instagram" >}}](https://www.instagram.com/edinmathsoc/)
 [{{< icon "linkedin" >}}](https://www.linkedin.com/company/edinburghuniversitymathematicssociety/)
+[{{< icon "github" >}}](https://github.com/samuelwebb2/mathsoc-website)
