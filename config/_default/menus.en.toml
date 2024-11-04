@@ -39,5 +39,11 @@ url = "https://www.instagram.com/edinmathsoc/"
 identifier = "Y0ec4jFf6f"
 weight = 9999
 
+[[main]]
+pre = "link"
+pageRef = "links.md"
+identifier = "Muj21pBjhy"
+weight = 9999
+
 [[footer]]
 none = "none"
