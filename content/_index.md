@@ -15,8 +15,6 @@ Buy a membership
 
 {{< events >}}
 
-## Check out our latest problem
-
 {{< problems >}}
 
 ## Our sponsors
