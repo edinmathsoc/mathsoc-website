@@ -1,18 +1,12 @@
 {{/*  socials academics or sports  */}}
-{{ $events := where .Site.RegularPages "Section" "in" (slice "problems") }}
-{{/*  if there are events then show heading - Check out our latest problem  */}}
+{{ $events := where .Site.RegularPages "Section" "in" "problems" }}
+{{ $events := $events |  first 1 }}
+{{/*  if there are events then show heading */}}
 {{- if gt (len $events) 0 -}}
     <h2 class="section-title">Check out our latest problem</h2>
 {{- end -}}
-
-{{/*  {{ $early := now.Add (time.ParseDuration "-09h00m00s") }}  */}}
-{{ $fromdate := now.AddDate 0 0 -30 }} 
-{{ $filteredEvents := $events | intersect (where $events "Date" "ge" ($fromdate)) | last 5 }}
-{{/*  loop through the events  */}}
-{{- range $filteredEvents.Reverse -}}
+{{- range $events -}}
     {{ partial "article-link/simple.html" . }}
     {{/*  add a blank line   */}} 
     <br>
 {{- end -}}
-{{/* print the list filteredEvents  */}}
-{{/*  {{ printf "%#v" $filteredEvents }}  */}}

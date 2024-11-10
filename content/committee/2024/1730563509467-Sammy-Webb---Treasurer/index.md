@@ -3,8 +3,7 @@ title: "Sammy Webb - Treasurer"
 date: 2024-04-01
 draft: false
 showDate: false
-# description: "a description"
-# tags: ["example", "tag"]
+layout: profilepage
 ---
 {{< figure default=true src="img/committeephotos/sammywebb.png" height=300 width=400 >}}
 

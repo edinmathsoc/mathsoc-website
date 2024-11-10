@@ -1,6 +1,6 @@
 {{ $page := .Page.Resources }}
-{{ $profiles := .Site.Data.committee.profiles }}
-<h1>Meet your committee</h1>
+{{ $profiles := .Site.Data.yearreps.profiles }}
+<h1>Meet your year reps</h1>
 <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
     {{ range $profiles }}
         {{ partial "article-link/profileCard" . }}
