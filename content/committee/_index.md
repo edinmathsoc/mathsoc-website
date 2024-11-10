@@ -5,6 +5,6 @@ draft: false
 showDate: false
 layout: "simple"
 ---
-{{< yearReps >}}
-
 {{< profileGallery >}}
+
+{{< yearReps >}}
