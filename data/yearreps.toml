@@ -7,6 +7,14 @@ year = 2024
 page = "year-reps/1731264472401-1st-Year-Representative/"
 
 [[profiles]]
+name = "Omar"
+surname = "Wahdan"
+role = "1st Year Representative"
+src = "/img/yearreps/2024/1st-year-rep-2.jpg"
+year = 2024
+page = "year-reps/1731338870361-1st-Year-Representative/"
+
+[[profiles]]
 name = "Yiding"
 surname = "Ma"
 role = "2nd Year Representative"
@@ -45,3 +53,11 @@ role = "4th Year Representative"
 src = "/img/yearreps/2024/4th-year-rep.jpg"
 year = 2024
 page = "year-reps/1731264535470-4th-Year-Representative/"
+
+[[profiles]]
+name = "Anish"
+surname = "Khanom"
+role = "4th Year Representative"
+src = "/img/yearreps/2024/4th-year-rep-2.jpg"
+year = 2024
+page = "year-reps/1731337250568-4th-Year-Representative/"

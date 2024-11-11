@@ -2,8 +2,7 @@
 title: "5th Year Representative"
 date: 2024-11-10
 draft: false
-description: "a description"
-tags: ["example", "tag"]
+showDate: false
 ---
  an example to get you started
 # This is a heading

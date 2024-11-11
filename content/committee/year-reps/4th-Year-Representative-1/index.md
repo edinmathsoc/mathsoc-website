@@ -2,8 +2,7 @@
 title: "4th Year Representative"
 date: 2024-11-10
 draft: false
-description: "a description"
-tags: ["example", "tag"]
+showDate: false
 ---
 {{< figure default=true src="img/yearreps/2024/4th-year-rep.jpg" >}}
 
