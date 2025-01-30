@@ -1,6 +1,6 @@
 ---
 title: "Maths Ball 2025!"
-date: 2025-01-28T18:00:00
+date: 2025-03-14T18:00:00
 draft: false
 description: ""
 ---
