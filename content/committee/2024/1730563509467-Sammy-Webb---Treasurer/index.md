@@ -5,6 +5,6 @@ draft: false
 showDate: false
 layout: profilepage
 ---
-{{< figure default=true src="img/committeephotos/sammywebb.png" >}}
+{{< figure default=true src="img/committeephotos/2024/sammywebb.png" >}}
 
 Hi my name is Sammy and I am the Treasurer for MathSoc this year. I am in my 5th year on the MMath program so starting to feel like a MathSoc pensioner. For me MathSoc has been an awesome place to meet people and learn about everything going on with mathematics at Edinburgh! I look forward to meeting you all this year.
