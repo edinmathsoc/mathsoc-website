@@ -2,16 +2,13 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/getting-started/
 
-theme = ["hugo-embed-pdf-shortcode", "blowfish"]
-enableInlineShortcodes = true
-
-baseURL = "https://mathsoc.tardis.ac/"
+# theme = "blowfish" # UNCOMMENT THIS LINE
+# baseURL = "https://your_domain.com/"
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true
-paginate = 12
 summaryLength = 0
 
 buildDrafts = false
@@ -21,12 +18,17 @@ enableEmoji = true
 
 # googleAnalytics = "G-XXXXXXXXX"
 
+[pagination]
+  pagerSize = 100
+
 [imaging]
   anchor = 'Center'
 
 [taxonomies]
   tag = "tags"
   category = "categories"
+  author = "authors"
+  series = "series"
 
 [sitemap]
   changefreq = 'daily'
