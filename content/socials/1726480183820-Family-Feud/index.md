@@ -6,7 +6,7 @@ description: "a description"
 tags: ["example", "tag"]
 ---
 
-![Family Feud](2024/socials/family-feud.jpg)
+![Family Feud](img/socials/family-feud.jpg)
 
 MathSoc presents Family Feud!
 

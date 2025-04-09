@@ -4,7 +4,7 @@ date: 2024-10-21T00:00:00+01:00
 draft: false
 description: "How would you place infinitely many queens on an infinite chessboard so that there is a queen in every row and in every column and no queen can attack any other?"
 ---
-![The Chess-board — Illustration to the second chapter of Through the Looking Glass by John Tenniel. Wood-engraving by the Dalziels.](/2024/ttlgchessboard.jpg)
+![The Chess-board — Illustration to the second chapter of Through the Looking Glass by John Tenniel. Wood-engraving by the Dalziels.](img/problems/ttlgchessboard.jpg)
 {{< katex >}}
 
 A classical problem of Gauss (ca.1850) asks if eight queens can be placed on a

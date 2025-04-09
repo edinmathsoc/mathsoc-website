@@ -4,7 +4,7 @@ date: 2025-03-14T18:00:00
 draft: false
 description: ""
 ---
-{{< figure src="/img/ceilidh.jpg" alt="Maths Ball 2024" caption="Maths Ball 2024" >}}
+{{< figure src="/img/socials/ceilidh.jpg" alt="Maths Ball 2024" caption="Maths Ball 2024" >}}
 
 Tickets on sale NOW for our night of elegance, fun, and dancing at the Ghillie Dhu on __Friday, March 14th__! ✨💃🕺
 
