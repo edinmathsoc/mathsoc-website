@@ -10,4 +10,13 @@ rtl = false
 dateFormat = "Monday, 2 January, 3:04pm"
 logo = "mathsoc-banner.png"
 secondaryLogo = "mathsoc-banner-darkmode.png"
-description = "Univerisity of Edinburgh maths society website"
+description = "University of Edinburgh maths society website"
+
+[params.author]
+name = "Sammy Webb"
+image = "img/author.jpeg"
+headline = "Treasure 2024/25"
+bio = "I built this website using Hugo and the blowfish theme while in my final year of university."
+links = [
+  { linkedin = "https://www.linkedin.com/in/samuel-david-webb/"}
+]
