@@ -13,4 +13,4 @@ In just 30 minutes, teams will tackle 13 estimation problems. Think your squad h
 🎉 Plus, Jane Street has sent t-shirts for all attendees! 🎉
 ⚡️Only 60 spaces available, first come first serve—priority given to members of the societies above. If there’s room, others are welcome too!
 
-![Estimathon advert](2024/estimathon.jpeg)
+![Estimathon advert](img/academics/estimathon.jpeg)

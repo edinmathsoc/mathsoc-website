@@ -11,7 +11,7 @@ tags: ["example", "tag"]
 Register here
 {{< /button >}}
 ![Jane Street is coming to Edinburgh University and they'd love for your MathSoc to come along! Join them for an information session about Jane Street's Strategy and Product Internship (followed by networking and pizza!) on the 15th of October at 18:30pm. 
-Location will be confirmed on registration, but it will be on Edinburgh University Campus.](2024/janestreet_internship.png)
+Location will be confirmed on registration, but it will be on Edinburgh University Campus.](img/academics/janestreet_internship.png)
 
 *"Join us for an information session about Jane Street's Strategy and Product Internship, followed by networking with food and drink provided!*
 
