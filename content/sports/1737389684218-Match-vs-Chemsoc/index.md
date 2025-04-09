@@ -11,4 +11,4 @@ This weeks match is against __ChemSoc__. We will be __meeting at Peffermill__ at
 Join Netball WhatsApp group
 {{< /button >}}
 
-![Pitch location](netballpitchlocation.png)
+![Pitch location](img/sports/netballpitchlocation.png)

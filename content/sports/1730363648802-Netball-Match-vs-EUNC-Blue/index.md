@@ -11,4 +11,4 @@ This weeks match is against __EUNC Blue__. We will be __meeting at Peffermill__ 
 Join Netball WhatsApp group
 {{< /button >}}
 
-![Pitch location](netballpitchlocation.png)
+![Pitch location](img/sports/netballpitchlocation.png)

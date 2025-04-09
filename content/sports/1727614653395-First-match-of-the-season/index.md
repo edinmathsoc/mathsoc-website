@@ -11,4 +11,4 @@ Join Netball WhatsApp group
 
 The first match of the season is coming up on the **6th of October**. We will be playing against the Medics' Netball team. They are a strong side so we will have to bring our A game. The match will be at 14:00 on **pitch 1 at Peffermill**. Please can everyone **arrive at 13:40** so we can warm up and have a quick catch up before the game. 
 
-![Pitch location](netballpitchlocation.png)
+![Pitch location](img/sports/netballpitchlocation.png)
