@@ -21,16 +21,15 @@ To set up the project locally, follow these steps: (Work in progress currently o
 
 1. Clone the repository:
 
+    In order to complete this step you may need to setup the following if you haven't already:
+    1. [Install an editor](https://code.visualstudio.com/Download)
+    2. [Add ssh key to github](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
     In a terminal window, run the following command:
 
     ```bash
     git clone --recursive git@github.com:edinmathsoc/mathsoc-website.git
     ```
-
-    In order to complete this step you may need to setup the following if you haven't already:
-    1. [Install an editor](https://code.visualstudio.com/Download)
-    2. [Add ssh key to github](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
-
 2. Navigate to the project directory and open it in your editor:
 
     ```bash
