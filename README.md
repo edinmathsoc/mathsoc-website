@@ -24,7 +24,7 @@ To set up the project locally, follow these steps: (Work in progress currently o
     In a terminal window, run the following command:
 
     ```bash
-    git clone --recursive git@github.com:samuelwebb2/mathsoc-website.git
+    git clone --recursive git@github.com:edinmathsoc/mathsoc-website.git
     ```
 
     In order to complete this step you may need to setup the following if you haven't already:
