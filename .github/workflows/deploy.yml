@@ -1,0 +1,32 @@
+name: Build & Deploy Hugo Site
+
+on:
+  push:
+    branches:
+      - main  # or your deployment branch
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v4
+
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: '0.147.9'  # use your Hugo version
+        extended: true
+
+    - name: Build Hugo site
+      run: hugo --minify
+
+    - name: Setup SSH
+      uses: webfactory/ssh-agent@v0.9.0
+      with:
+        ssh-private-key: ${{ secrets.DEPLOY_KEY }}
+
+    - name: Deploy via rsync
+      run: |
+        rsync -avz --delete public/ mathsoc@tardisproject.uk:~/www
