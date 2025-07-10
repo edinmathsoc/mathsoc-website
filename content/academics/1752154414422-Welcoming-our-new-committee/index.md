@@ -1,6 +1,6 @@
 ---
 title: "Welcoming our new committee"
-date: 2025-07-10
+date: 2025-07-15T00:00:00+00:00
 draft: false
 description: "a description"
 tags: ["example", "tag"]
