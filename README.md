@@ -19,6 +19,9 @@ This repository contains the source code for the University of Edinburgh MathSoc
 
 To set up the project locally, follow these steps: (Work in progress currently only works on MacOS and Linux)
 
+On windows you must first install [git](https://git-scm.com/downloads). 
+Optionally also install [github desktop](https://github.com/apps/desktop).
+
 1. Clone the repository:
 
     In order to complete this step you may need to setup the following if you haven't already:
