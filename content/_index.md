@@ -26,3 +26,5 @@ Buy a membership
 We are grateful for the support of our sponsors, who help us to run our events and provide a range of opportunities for our members. If you are interested in sponsoring MathSoc, please check out our sponsorship packages [here]( {{< relref "sponsors/1729519460100-Sponsorship-booklet" >}}) and get in touch with us at [edinmathsoc@gmail.com](mailto:edinmathsoc@gmail.com?subject=Sponsorship%20Enquiry).
 
 We would like the thank the [Tardis Project](https://tardisproject.uk) for hosting our website. Check out all the awesome work they are doing!
+
+Special thanks to Yoyo for designing our logo!
