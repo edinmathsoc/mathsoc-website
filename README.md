@@ -111,6 +111,11 @@ If you are not a member of the MathSoc exec team, you will need to create a pull
     ```bash
     hugo && rsync -avz --delete public/ mathsoc@tardisproject.uk:~/www
     ```
+    For windows, install wsl, navigate to Hugo then running the following command:
+   
+    ```bash
+    rsync -avz --delete public/ mathsoc@tardisproject.uk:~/www
+    ```
 
 <!-- ## Contributing
 We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) to get started. -->
