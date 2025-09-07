@@ -1,103 +1,79 @@
 [[profiles]]
-name = "Akbar"
-surname = "Latif"
-role = "President"
-src = "/img/committeephotos/2024/akbarlatif.jpeg"
-year = 2024
-page = "2024/1730562939797-Akbar-Latif---President/"
-
-[[profiles]]
-name = "Mick"
-surname = "Westerlaken"
-role = "Vice President"
-src = "/img/committeephotos/2024/mickymouse.jpeg"
-year = 2024
-page = "2024/1730563467811-Mick-Westerlaken---Vice-President/"
-
-[[profiles]]
-name = "Maria"
-surname = "Sauerhering"
-role = "Secretary"
-src = "/img/committeephotos/2024/mariasauerhering.jpeg"
-year = 2024
-page = "2024/1730563489761-Maria-Sauerhering---Secretary/"
-
-[[profiles]]
-name = "Sammy"
-surname = "Webb"
-role = "Treasurer"
-src = "/img/committeephotos/2024/sammywebb.png"
-year = 2024
-page = "2024/1730563509467-Sammy-Webb---Treasurer/"
-
-[[profiles]]
-name = "Paris"
-surname = "Nobel"
-role = "Social Secretary"
-src = "/img/committeephotos/2024/parisnobel.jpeg"
-year = 2024
-page = "2024/1730563526542-Paris-Nobel---Social-Secretary/"
-
-[[profiles]]
-name = "Pablo"
-surname = "Ortuño"
-role = "MathsHub Coordinator"
-src = "/img/committeephotos/2024/pabloortuno.jpeg"
-year = 2024
-page = "2024/1730563546778-Pablo-Ortuño---MathsHub-Coordinator/"
-
-[[profiles]]
-name = "Radu"
-surname = "Georgescu"
-role = "Publicity Officer"
-src = "/img/committeephotos/2024/radugeorgescu.jpeg"
-year = 2024
-page = "2024/1730563565045-Radu-Georgescu/"
-
-[[profiles]]
-name = "Matthew"
-surname = "McCrea"
-role = "Wellbeing Coordinator"
-src = "/img/committeephotos/2024/matthewmccrea.jpeg"
-year = 2024
-page = "2024/1730563623007-Matthew-McCrea/"
-
-[[profiles]]
 name = "Yoyo (Yuchang)"
 surname = "Yang"
+role = "President"
+src = "/img/committeephotos/2025/yoyo.png"
+year = 2025
+page = "2025/Yoyo-Yuchang-Yang---President/"
+
+[[profiles]]
+name = "Manolis"
+surname = "Patronis"
+role = "Vice President"
+src = "/img/committeephotos/2025/manolis.jpg"
+year = 2025
+page = "2025/Manolis-Patronis---Vice-President/"
+
+[[profiles]]
+name = "Daisy"
+surname = "Luczaj"
+role = "Secretary"
+src = "/img/committeephotos/2025/daisy.png"
+year = 2025
+page = "2025/Daisy-Lucjaz---Secretary/"
+
+[[profiles]]
+name = "Herman"
+surname = "Songe-Aakre"
+role = "Treasurer"
+src = "/img/committeephotos/2025/herman.jpg"
+year = 2025
+page = "2025/Herman-Songe-Aakre---Treasurer/"
+
+[[profiles]]
+name = "Constance"
+surname = "Herrod"
+role = "Social Secretary"
+src = "/img/committeephotos/2025/constance.jpg"
+year = 2025
+page = "2025/Constance-Herrod---Social-Secretary/"
+
+[[profiles]]
+name = "Rudy"
+surname = "Adair"
+role = "Publicity Officer"
+src = "/img/committeephotos/2025/rudy.jpg"
+year = 2025
+page = "2025/Rudy-Adair---Publicity-Officer/"
+
+[[profiles]]
+name = "Willow"
+surname = "Fossil"
+role = "Wellbeing Officer"
+src = "/img/committeephotos/2025/willow.jpg"
+year = 2025
+page = "2025/Willow-Fossil---Wellbeing-Officer/"
+
+[[profiles]]
+name = "Jena"
+surname = "Nguyen"
 role = "Academic Coordinator"
-src = "/img/committeephotos/2024/yoyoyeung.jpeg"
-year = 2024
-page = "2024/1730563724257-Yoyo-Yang---Academic-Coordinator/"
+src = "/img/committeephotos/2025/jena.jpg"
+year = 2025
+page = "2025/Jena-Nguyen---Academic-Coordinator/"
 
 [[profiles]]
-name = "Lucy"
-surname = "Walsh"
-role = "Events Coordinator"
-src = "/img/committeephotos/2024/lucywalsh.jpeg"
-year = 2024
-page = "2024/1730563737557-Lucy-Walsh---Events-Coordinator/"
+name = "Adrian"
+surname = "Gunawan"
+role = "Event Coordinator"
+src = "/img/committeephotos/2025/adrian.jpg"
+year = 2025
+page = "2025/Adrian-Gunawan---Event-Coordinator/"
 
 [[profiles]]
-name = "Joanna"
-surname = "Tulloch"
-role = "Events Coordinator"
-src = "/img/committeephotos/2024/joannatulloch.jpeg"
-year = 2024
-page = "2024/1730563752559-Joanna-Tulloch---Events-Coordinator/"
-
-[[profiles]]
-name = "Naseem"
-surname = "Veevers"
-role = "Sports Secretary"
-src = "/img/committeephotos/2024/naseemveevers.jpeg"
-year = 2024
-page = "2024/1730564183138-Naseem-Veevers---Sports-Secretary/"
-
-[[profiles]]
-name = "Test" 
-surname = "Person" 
-role = "For testing"
-src = "/img/committeephotos/2024/portraitoftestperson.png"
-year = 2025 
-page = "2024/testperson/"
+name = "Phoebe"
+surname = "Burke"
+role = "Event Coordinator"
+src = "/img/committeephotos/2025/phoebe.jpg"
+year = 2025
+page = "2025/Phoebe-Burke---Event-Coordinator/"
