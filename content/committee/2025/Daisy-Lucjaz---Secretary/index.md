@@ -1,0 +1,1 @@
+Hi everyone! I’m Daisy, your Secretary, aka designated note-taker. I’ll be the one sending (amazing?) weekly emails, keeping you all in the loop and up to date on all our fantastic events! x

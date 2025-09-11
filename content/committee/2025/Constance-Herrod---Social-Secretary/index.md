@@ -1,0 +1,1 @@
+Former maths and physics student, but I couldn’t handle the gravity of the situation so I dropped the physics. You’ll also catch me on the netball court as co-captain of the Mathsoc Netball team!

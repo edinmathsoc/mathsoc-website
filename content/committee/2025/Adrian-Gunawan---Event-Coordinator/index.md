@@ -1,0 +1,1 @@
+Hey, I’m Adrian, a 2nd year Econ and Maths Student. I’ll be one of your event coordinators for the year and I’m super excited to help organise this year’s Christmas Dinner and MathsBall!

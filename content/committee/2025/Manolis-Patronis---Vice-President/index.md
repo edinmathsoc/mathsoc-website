@@ -1,0 +1,1 @@
+I liked all the MathSoc events last year so much that now I'm helping run them. Outside of uni I play tennis and I am a big film lover. My goal for the year is to travel to a new country!

@@ -1,0 +1,1 @@
+Hi! I’m Rudy, your Publicity Officer, or Influencer as I call it, I’ll be gram-spamming you all to let you know what events we have going on! Can’t wait to see everyone and be a part of the committee!

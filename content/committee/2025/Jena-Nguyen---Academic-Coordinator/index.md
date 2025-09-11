@@ -1,0 +1,1 @@
+Hi! My name is Jena, I’m the academic coordinator this year. I’ll be organising all the academic activities including special lectures, our big annual lecture and other things coming soon! Can’t wait to see all of you there :) I would really love to hear your recommendations on any topics you are interesting in!

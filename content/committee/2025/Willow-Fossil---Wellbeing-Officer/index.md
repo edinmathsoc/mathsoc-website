@@ -1,0 +1,1 @@
+I’m Willow and I’m a 5th year MMath student, I spend my time singing in a choir and playing piano when I can! My goal is to make everyone feel welcome at Mathsoc and I can’t wait to do this as part of the committee this year =]
