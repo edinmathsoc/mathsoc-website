@@ -1,6 +1,6 @@
 ---
 title: "Netball season is back!"
-date: 2025-10-10
+date: 2025-10-10T16:00:00Z
 draft: false
 description: "a description"
 tags: ["example", "tag"]
