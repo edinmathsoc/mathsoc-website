@@ -10,4 +10,4 @@ tags: ["example", "tag"]
 
 Thank you everyone for taking part in this years season. We had a great time and I am very proud of everyone who took part.
 
-This is just to test the website
+See you in the next year!
