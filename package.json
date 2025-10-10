@@ -1,0 +1,23 @@
+{
+  "name": "mathsoc-website",
+  "version": "1.0.0",
+  "description": "Welcome to the official repository for the University of Edinburgh MathSoc website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edinmathsoc/mathsoc-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edinmathsoc/mathsoc-website/issues"
+  },
+  "homepage": "https://github.com/edinmathsoc/mathsoc-website#readme",
+  "devDependencies": {
+    "blowfish-tools": "^1.10.0"
+  }
+}
