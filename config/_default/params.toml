@@ -9,9 +9,15 @@ disableTextInHeader = true
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
 highlightCurrentMenuArea = true
+firebase = { }
+fathomAnalytics = { }
+umamiAnalytics = { }
+selineAnalytics = { }
+buymeacoffee = { }
+verification = { }
 
 [header]
-layout = "basic"
+layout = "quit"
 
 [footer]
 showMenu = true
@@ -94,15 +100,3 @@ showTableOfContents = true
 groupByYear = false
 cardView = false
 cardViewScreenWidth = false
-
-[firebase]
-
-[fathomAnalytics]
-
-[umamiAnalytics]
-
-[selineAnalytics]
-
-[buymeacoffee]
-
-[verification]
