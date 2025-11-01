@@ -1,15 +1,11 @@
 ---
 title: "Mathematical Walking Tour of Edinburgh"
-date: 2025-11-01
+date: 2025-09-09T12:30:00
+time: "12:30"
 draft: false
-description: "a description"
-tags: ["example", "tag"]
 ---
- an example to get you started
-# This is a heading
-## This is a subheading
-### This is a subsubheading
-#### This is a subsubsubheading
-This is a paragraph with **bold** and *italic* text.
-Check more at [Blowfish documentation](https://blowfish.page/)
-undefined
+ Come join us on a Mathematical walking tour around the city and learn cool and quirky facts about how some of Edinburgh's historic landmarks are connected to famous mathematicians! 🏰🤩
+
+If you fancy a wonder around and want to meet some new friends, then this is one for you!
+
+We will be meeting outside Potterrow tomorrow (Tue 9th) at 12:30, we hope to see all of you there! 😁
