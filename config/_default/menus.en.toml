@@ -49,7 +49,6 @@ url = "https://www.instagram.com/edinmathsoc/"
 identifier = "23hXPYuChi"
 weight = 9999
 
-
 [[footer]]
 pre = "link"
 pageRef = "links.md"
@@ -60,4 +59,10 @@ weight = 9999
 pre = "github"
 url = "https://github.com/samuelwebb2/mathsoc-website"
 identifier = "Y0ec4jFf6f"
+weight = 9999
+
+[[footer]]
+pre = "discord"
+url = "https://discord.gg/KcUc3j7Z"
+identifier = "Y0ec4jFfyo"
 weight = 9999
