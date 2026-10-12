@@ -18,7 +18,7 @@ Our society provides sponsors with various opportunities to get involved, rangin
 
 ### Partner Sponsor
 
-As a Partner Sponsor, we will act as an avenue to share any job and internship postings as well as events that you wish to advertise. These adverts will reach an audience of people interested in mathematics ranging from our members to Instagram followers consisting of over 1500 people. All logos will appear prominently on our website and in communications to our network of students, through emails and social media. In addition, we will offer to organise an event specifically catered to your company – for example, we are running an Estimathon for Jane Street where they have provided prizes for the winners. In return, we request a £500 sponsorship fee.
+As a Partner Sponsor, we will act as an avenue to share any job and internship postings as well as events that you wish to advertise. These adverts will reach an audience of people interested in mathematics ranging from our members to Instagram followers consisting of over 1500 people. All logos will appear prominently on our website and in communications to our network of students, through emails and social media. In addition, we will offer to organise an event specifically catered to your company – for example, we are running an Estimathon for Jane Street where they have provided prizes for the winners. In return, we request a £750 sponsorship fee.
 
 ### Gift Sponsor
 

@@ -1,79 +1,74 @@
 [[profiles]]
-name = "Yoyo Yuchang"
-surname = "Yang"
+name = "Gordon"
+surname = "Bradley"
 role = "President"
-src = "/img/committeephotos/2025/yoyo.png"
-year = 2025
-page = "2025/Yoyo-Yuchang-Yang---President/"
-
+src = "/img/committeephotos/2024/portraitoftestperson.png"
+year = 2026
+page = "2026/Gordon-Bradley---President/"
+ 
 [[profiles]]
-name = "Manolis"
-surname = "Patronis"
+name = "Indi"
+surname = "Chrishan"
 role = "Vice President"
-src = "/img/committeephotos/2025/manolis.jpg"
-year = 2025
-page = "2025/Manolis-Patronis---Vice-President/"
+src = "/img/committeephotos/2024/portraitoftestperson.png"
+year = 2026
+page = "2026/Indi-Chrishan---Vice-President/"
+ 
 
 [[profiles]]
-name = "Daisy"
-surname = "Luczaj"
-role = "Secretary"
-src = "/img/committeephotos/2025/daisy.png"
-year = 2025
-page = "2025/Daisy-Lucjaz---Secretary/"
-
-[[profiles]]
-name = "Herman"
-surname = "Songe-Aakre"
+name = "Nikolas"
+surname = "Aspreas"
 role = "Treasurer"
-src = "/img/committeephotos/2025/herman.jpg"
-year = 2025
-page = "2025/Herman-Songe-Aakre---Treasurer/"
+src = "/img/committeephotos/2024/portraitoftestperson.png"
+year = 2026
+page = "2026/Nikolas-Aspreas---Treasurer/"
 
 [[profiles]]
-name = "Constance"
-surname = "Herrod"
-role = "Social Secretary"
-src = "/img/committeephotos/2025/constance.jpg"
-year = 2025
-page = "2025/Constance-Herrod---Social-Secretary/"
-
+name = "Anthea"
+surname = "Wong"
+role = "Secretary"
+src = "/img/committeephotos/2024/portraitoftestperson.png"
+year = 2026
+page = "2026/Anthea-Wong---Secretary/"
+ 
 [[profiles]]
-name = "Rudy"
-surname = "Adair"
-role = "Publicity Officer"
-src = "/img/committeephotos/2025/rudy.jpg"
-year = 2025
-page = "2025/Rudy-Adair---Publicity-Officer/"
-
-[[profiles]]
-name = "Willow"
-surname = "Fossil"
-role = "Wellbeing Officer"
-src = "/img/committeephotos/2025/willow.jpg"
-year = 2025
-page = "2025/Willow-Fossil---Wellbeing-Officer/"
-
-[[profiles]]
-name = "Jena"
-surname = "Nguyen"
+name = "Íshildur (Izzy)"
+surname = "Ulva Ådnedóttir"
 role = "Academic Coordinator"
-src = "/img/committeephotos/2025/jena.jpg"
-year = 2025
-page = "2025/Jena-Nguyen---Academic-Coordinator/"
-
+src = "/img/committeephotos/2026/izzy.jpg"
+year = 2026
+page = "2026/Ishildur-Ulva-Adnedottir---Academic-Coordinator/"
+ 
 [[profiles]]
-name = "Adrian"
-surname = "Gunawan"
+name = "Yuchen"
+surname = "Dou"
 role = "Event Coordinator"
-src = "/img/committeephotos/2025/adrian.jpg"
-year = 2025
-page = "2025/Adrian-Gunawan---Event-Coordinator/"
-
+src = "/img/committeephotos/2026/yuchen.jpg"
+year = 2026
+page = "2026/Yuchen-Dou---Event-Coordinator/"
+ 
 [[profiles]]
-name = "Phoebe"
-surname = "Burke"
-role = "Event Coordinator"
-src = "/img/committeephotos/2025/phoebe.jpg"
-year = 2025
-page = "2025/Phoebe-Burke---Event-Coordinator/"
+name = "Máté"
+surname = "Róka"
+role = "Social Secretary"
+src = "/img/committeephotos/2026/mate.jpg"
+year = 2026
+page = "2026/Mate-Roka---Social-Secretary/"
+ 
+[[profiles]]
+name = "Nur"
+surname = "Sahin"
+role = "Publicity Officer"
+src = "/img/committeephotos/2026/nur.jpg"
+year = 2026
+page = "2026/Nur-Sahin---Publicity-Officer/"
+ 
+[[profiles]]
+name = "Lena"
+surname = "Lewis"
+role = "Wellbeing Officer"
+src = "/img/committeephotos/2026/lena.jpg"
+year = 2026
+page = "2026/Lena-Lewis---Wellbeing-Officer/"
+
+

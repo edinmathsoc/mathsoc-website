@@ -26,20 +26,6 @@ pageRef = "sports"
 identifier = "qsRhQjdLlj"
 weight = 4
 
-[[main]]
-name = "Problems"
-pre = "pencil"
-pageRef = "problems"
-identifier = "Z1QeQj4GzU"
-weight = 5
-
-[[main]]
-name = "Annual"
-pre = "pencil"
-pageRef = "annuallecture"
-identifier = "Z1QeQj4Gxg"
-weight = 6
-
 [[footer]]
 none = "none"
 
